@@ -30,9 +30,3 @@ python -m unittest discover tests
 ## Progress
 
 This is an ongoing project and we will update the README as we make progress.
-
-## Contributions
-
-We welcome contributions! Please see `CONTRIBUTING.md` for details on how to contribute.
-
-
